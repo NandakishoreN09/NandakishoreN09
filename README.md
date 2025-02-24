@@ -5,10 +5,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandakishorenallagopu@gmail.com)
 
 ## 🚀 About Me
-Full-stack software engineer crafting scalable enterprise solutions | MS CS student @ George Mason University | Ex-TCS
+Full-stack software engineer crafting scalable enterprise solutions | MS CS student @ George Mason University |
 
-🔭 Currently working on: High-performance distributed systems and cloud-native applications
-🌱 Learning: Advanced cloud architecture and ML/AI applications
+🔭 Currently working on: High-performance distributed systems and Blockchain applications
+🌱 Learning: Advanced cloud architecture and ML/AI applications integrating Web3
 💡 Passionate about: Building efficient, scalable solutions that make a real impact
 
 ## ⭐ Pinned Projects

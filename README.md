@@ -8,7 +8,7 @@
 Full-stack software engineer crafting scalable enterprise solutions | MS CS student @ George Mason University |
 
 🔭 Currently working on: High-performance distributed systems and Blockchain applications
-🌱 Learning: Advanced cloud architecture and ML/AI applications integrating Web3
+🌱 Learning: Advanced cloud architecture and ML/AI applications
 💡 Passionate about: Building efficient, scalable solutions that make a real impact
 
 ## ⭐ Pinned Projects
@@ -43,7 +43,6 @@ Full-stack software engineer crafting scalable enterprise solutions | MS CS stud
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 
 ### Frameworks & Tools
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -55,6 +54,12 @@ Full-stack software engineer crafting scalable enterprise solutions | MS CS stud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+### Blockchain
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
+![Avalanche](https://img.shields.io/badge/Avalanche-E84142?style=flat-square&logo=avalanche&logoColor=white)
 
 ## 📊 GitHub Language Distribution
 
